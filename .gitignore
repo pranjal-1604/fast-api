@@ -1,4 +1,3 @@
-__pychache__
+__pycache__
 venv
 .DS_Store
-echo "__pycache__/" >> .gitignore
